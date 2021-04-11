@@ -2,7 +2,7 @@
 
 In this project we build Machine learning models to predict which Tweets are about real disasters and which ones aren't. It is a Kaggle challenge (https://www.kaggle.com/c/nlp-getting-started) about NLP, and it was the project we developed in the Factored AI Sessions. (Jan - Apr, 2020)
 
-### Technologies: Python, Colab Notebooks, Machine Learning.
+### Technologies: Python, Colab Notebooks, Machine Learning, TensorFlow Hub.
 
 ## Metrics: F1 Score
 F1 = 2 * (precision * recall) / (precision + recall)

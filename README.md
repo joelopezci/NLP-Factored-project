@@ -1,6 +1,6 @@
 # REAL OR NOT? NLP WITH DISASTER TWEETS
 
-In this project we build Machine learning models that predicts which Tweets are about real disasters and which ones aren't. It is a Kaggle challenge (https://www.kaggle.com/c/nlp-getting-started) about NLP, and it was the project we developed in the Factored AI Sessions. (Jan - Apr, 2020)
+In this project we build Machine learning models to predict which Tweets are about real disasters and which ones aren't. It is a Kaggle challenge (https://www.kaggle.com/c/nlp-getting-started) about NLP, and it was the project we developed in the Factored AI Sessions. (Jan - Apr, 2020)
 
 ### Technologies: Python, Colab Notebooks, Machine Learning.
 
